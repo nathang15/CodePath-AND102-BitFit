@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/nathang15/CodePath-AND102-BitFit/assets/98335699/a52c1371-dbe5-4ed2-bc9b-0b52a5f2b920' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/nathang15/CodePath-AND102-BitFit/assets/98335699/a52c1371-dbe5-4ed2-bc9b-0b52a5f2b920' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezGif  
