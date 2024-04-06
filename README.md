@@ -1,8 +1,8 @@
-# Android Project 5 - *BitFit*
+# Android Project 6 - *BitFit2*
 
 Submitted by: **Nathan Nguyen**
 
-**BitFit** is a health metrics app that allows users to track calories intake
+**BitFit2** is a health metrics app that allows users to track calories intake
 
 Time spent: **4** hours spent in total
 
@@ -10,18 +10,14 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] **At least one health metric is tracked (based on user input)**
-  - Chosen metric(s): Calories for each food.
-- [X] **There is a "create entry" UI that prompts users to make their daily entry**
-- [X] **New entries are saved in a database and then updated in the RecyclerView**
-- [X] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
- 
+- [x] **Use at least 2 Fragments**
+- [x] **Create a new dashboard fragment where users can see a summary of their entered data**
+- [x] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
+
 The following **optional** features are implemented:
 
-- [X] **Create a UI for tracking averages and trends in metrics**
-- [X] **Improve and customize the user interface through styling and coloring**
-- [ ] **Implement orientation responsivity**
-- [ ] **Add a daily photo feature**
+- [ ] **Add a more advanced UI (e.g: Graphing) for tracking trends in metrics**
+- [ ] **Implement daily notifications to prompt users to fill in their data**
 
 The following **additional** features are implemented:
 
